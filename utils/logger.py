@@ -24,4 +24,5 @@ def log_message(message, log_file="app.log"):
     with open(log_path, "a") as f:
         f.write(formatted + "\n")
 
+
     return formatted
