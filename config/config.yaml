@@ -1,0 +1,12 @@
+# Configuration file for Cloud Support Automation Toolkit
+# -------------------------------------------------------
+# You can modify file names, keywords, and paths here.
+
+logs_dir: "logs"
+log_file: "app.log"
+output_report: "log_report.txt"
+
+keywords:
+  - "ERROR"
+  - "WARNING"
+  - "CRITICAL"
