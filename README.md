@@ -1,3 +1,7 @@
+![CI](https://github.com/barkha-stack/cloud-support-automation-toolkit/actions/workflows/ci.yml/badge.svg)
+
+# Cloud Support Automation Toolkit
+
 # Cloud Support Automation Toolkit
 
 A beginner-friendly Python automation project that simulates real-world
